@@ -1,3 +1,5 @@
+# We have terminated the backend for this project.  Old Reshuffle projects can no longer be deployed.
+
 ## Reshuffle Next.js demo
 Demonstrates how to develop a next javascript application on Reshuffle.
 
